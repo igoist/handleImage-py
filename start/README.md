@@ -13,3 +13,4 @@ Notes of relearning Image handle algorithm. Basic part.
 * 2018.05.19 -- demo0003 对比拉伸 contrast stretch
 * 2018.05.19 -- demo0004 位图切割 bitmap cutting
 * 2018.05.19 -- demo0005 直方图均衡化 histogram equalization
+* 2018.05.21 -- demo0006 图像减法 subtraction
