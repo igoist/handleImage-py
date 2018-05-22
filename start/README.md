@@ -14,3 +14,4 @@ Notes of relearning Image handle algorithm. Basic part.
 * 2018.05.19 -- demo0004 位图切割 bitmap cutting
 * 2018.05.19 -- demo0005 直方图均衡化 histogram equalization
 * 2018.05.21 -- demo0006 图像减法 subtraction
+* 2018.05.22 -- demo0007 加性高斯白噪声与去噪 AGwN
